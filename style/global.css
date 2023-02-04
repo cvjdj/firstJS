@@ -1,0 +1,15 @@
+:root {
+  --black: #000000;
+  --green: #00ff00;
+  --font-size-0: 54px;
+  --line-height-0: 62px;
+  --font-size-1: 34px;
+  --line-height-1: 42px;
+  --font-size-2: 24px;
+  --line-height-2: 32px;
+  --font-size-3: 16px;
+  --line-height-3: 22px;
+  --light: 400;
+  --bold: 600;
+  --font: "Roboto Mono", monospace;
+}
