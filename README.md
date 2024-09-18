@@ -4,10 +4,10 @@ Welcome to my portfolio! This portfolio showcases my previous projects and work,
 
 ## Sections
 
-- [Home](#home)
-- [About](#about)
-- [Projects](#projects)
-- [Contact](#contact)
+- [Home](https://cvjetan1.github.io/resume.github.io/#home)
+- [About me](https://cvjetan1.github.io/resume.github.io/#about-me)
+- [Projects](https://cvjetan1.github.io/resume.github.io/#projects)
+- [Contact](https://cvjetan1.github.io/resume.github.io/#contact)
 
 ## Contact
 
